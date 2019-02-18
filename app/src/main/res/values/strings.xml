@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SDU</string>
+    <string name="computer_science">Computer Science</string>
+    <string name="economics">Economics</string>
+    <string name="social_sciences">Social Sciences</string>
+    <string name="philology">Philology</string>
+    <string name="mathematics">Mathematics</string>
+    <string name="jurisprudence">Jurisprudence</string>
+</resources>
